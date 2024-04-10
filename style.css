@@ -1,0 +1,16 @@
+
+h1 {
+	color: #cc66ff;
+	text-align: center;
+	font-size: 15em;
+	font-family: "Rowdies", sans-serif;
+  	font-weight: 700;
+  	font-style: normal;
+  	text-decoration: underline;
+  	letter-spacing: 10px;
+  	text-shadow: 5px 5px 10px #9900e6;
+}
+
+body {
+	background-image: url(swirls.jpg);
+}
